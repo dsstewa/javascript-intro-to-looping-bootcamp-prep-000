@@ -15,5 +15,8 @@ function forLoop(array) {
   }
 }
 
+function whileLoop() {
+  while()
+}
 
 
