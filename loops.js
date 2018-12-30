@@ -6,21 +6,22 @@ function forLoop(array) {
   
     if (i < 25) {
       
-      if(i = 1) {}
-      
+      if(i = 1) {
+      array2.push("I am 1 strange loop.")
+    }
+      else if(i < 25) {
+        array2.push(`I am ${i} strange loops.`)
+      }
       else {
         return
       }
-      
-      
-      
-      
-
-
-
- array2.push("I am 1 strange loop.") 
-    } else { (i < 25) {
-      array2.push(`I am ${i} strange loops.`)
     }
-    } else {
-      return
+  }
+}
+      
+      
+      
+      
+
+
+
