@@ -1,8 +1,8 @@
 
 function forLoop(array) {
   for (let i = 0; i < 25; i++) {
-    
-    array.push("I am ${i} strange loops")
+    var array2 = []
+    array2.push("I am ${i} strange loops")
     
     }
 }
