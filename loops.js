@@ -29,7 +29,7 @@ function incrementVariable() {
 
 
 function doWhileLoop(array2) {
-  do {
+  do { array
   } while (array2.length > 0 && incrementVariable()) 
 
 }
