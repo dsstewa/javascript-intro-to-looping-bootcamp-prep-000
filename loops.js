@@ -23,8 +23,8 @@ return "done"
   
 }
 
-var i = 0;
-function incrementVariable() {
+
+function incrementVariable(i) {
   i = i + 1;
 }
 
