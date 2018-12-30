@@ -2,14 +2,14 @@
 
 
 function forLoop(array) {
-  for (let i = 1; i < 25; i++) {
+  for (let i = 1; i < 26; i++) {
   
-    if (i < 25) {
+    if (i < 26) {
       
       if(i === 1) {
       array.push("I am 1 strange loop.")
     }
-      else if(i < 25) {
+      else if(i < 26) {
         array.push(`I am ${i} strange loops.`)
       }
       else {
