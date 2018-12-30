@@ -7,10 +7,10 @@ function forLoop(array) {
     if (i < 25) {
       
       if(i === 1) {
-      console.log("I am 1 strange loop.")
+      array2.push("I am 1 strange loop.")
     }
       else if(i < 25) {
-        console.log(`I am ${i} strange loops.`)
+        array2.push(`I am ${i} strange loops.`)
       }
       else {
         return
