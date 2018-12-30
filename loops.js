@@ -25,4 +25,4 @@ return "done"
 
 function doWhileLoop(array2) {
   do {
-    
+  } while (incre) 
