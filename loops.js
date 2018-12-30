@@ -23,4 +23,6 @@ return "done"
   
 }
 
-
+function doWhileLoop(array2) {
+  
+}
