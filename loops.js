@@ -25,4 +25,6 @@ return "done"
 
 function doWhileLoop(array2) {
   do {
-  } while (incre) 
+  } while (array2.length > 0 && incrementVariable()) 
+
+}
