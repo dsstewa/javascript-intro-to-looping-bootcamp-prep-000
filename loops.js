@@ -23,6 +23,11 @@ return "done"
   
 }
 
+function incrementVariable() {
+  i = i + 1;
+}
+
+
 function doWhileLoop(array2) {
   do {
   } while (array2.length > 0 && incrementVariable()) 
