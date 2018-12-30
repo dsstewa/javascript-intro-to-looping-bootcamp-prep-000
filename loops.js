@@ -15,8 +15,12 @@ function forLoop(array) {
   }
 }
 
-function whileLoop() {
-  while()
+function whileLoop(s) {
+  while(s > 0) {
+    console.log(--s)
+  }
+return `done'
+  
 }
 
 
