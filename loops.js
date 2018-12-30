@@ -6,11 +6,11 @@ function forLoop(array) {
   
     if (i < 25) {
       
-      if(i = 1) {
-      array.push("I am 1 strange loop.")
+      if(i === 1) {
+      console.log("I am 1 strange loop.")
     }
       else if(i < 25) {
-        array.push(`I am ${i} strange loops.`)
+        console.log(`I am ${i} strange loops.`)
       }
       else {
         return
