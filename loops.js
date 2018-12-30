@@ -9,10 +9,11 @@ function forLoop(array) {
     } else { (i < 25) {
       array2.push(`I am ${i} strange loop.`)
     }
-    else return
+    } else {
+      return
     }
     }
-  
+}
 }
   
 
